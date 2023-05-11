@@ -1,0 +1,10 @@
+127.0.0.1 - - [11/May/2023:20:21:22 +0800] "GET /login-demo HTTP/1.1" 302 - http-bio-8080-exec-1 0
+127.0.0.1 - - [11/May/2023:20:21:22 +0800] "GET /login-demo/ HTTP/1.1" 200 53 http-bio-8080-exec-2 93
+127.0.0.1 - - [11/May/2023:20:21:23 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+127.0.0.1 - - [11/May/2023:20:21:28 +0800] "GET /login-demo/login.jsp HTTP/1.1" 200 907 http-bio-8080-exec-5 75
+127.0.0.1 - - [11/May/2023:20:21:28 +0800] "GET /login-demo/css/login.css HTTP/1.1" 200 1935 http-bio-8080-exec-6 18
+127.0.0.1 - - [11/May/2023:20:21:36 +0800] "GET /login-demo/register.jsp HTTP/1.1" 200 1852 http-bio-8080-exec-9 59
+127.0.0.1 - - [11/May/2023:20:21:36 +0800] "GET /login-demo/css/register.css HTTP/1.1" 200 2732 http-bio-8080-exec-10 51
+127.0.0.1 - - [11/May/2023:20:21:37 +0800] "GET /login-demo/checkCodeServlet HTTP/1.1" 200 2612 http-bio-8080-exec-1 715
+127.0.0.1 - - [11/May/2023:20:22:29 +0800] "GET /login-demo/loginServlet?name=lisi&password=111111 HTTP/1.1" 302 - http-bio-8080-exec-1 1090
+127.0.0.1 - - [11/May/2023:20:22:29 +0800] "GET /login-demo/selectAllServlet HTTP/1.1" 200 1885 http-bio-8080-exec-1 116

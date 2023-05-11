@@ -1,0 +1,17 @@
+com\web\RegisterServlet.class
+com\mapper\BrandMapper.class
+com\web\LoginServlet.class
+com\pojo\Student.class
+com\web\SelectByIdServlet.class
+com\service\BrandService.class
+com\util\SqlSessionFactoryUtil.class
+com\pojo\Brand.class
+com\mapper\StudentMapper.class
+com\web\Filter\LoginFilter.class
+com\service\StudentService.class
+com\web\SelectAllServlet.class
+com\web\Listener\ContextListener.class
+com\util\CheckCodeUtil.class
+com\web\AddServlet.class
+com\web\CheckCodeServlet.class
+com\web\UpdateServlet.class
